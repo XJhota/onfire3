@@ -3,3 +3,4 @@ onfire3
 plublic
 SELECT
 OURS
+MINT
